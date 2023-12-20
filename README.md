@@ -15,7 +15,7 @@ I'm Jeffley Garçon, a technology enthusiast passionate about creating innovativ
 - Exploring SpringBoot, MySQL, and advanced Java (object-oriented programming).
 
 #### 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
+- LinkedIn: [www.linkedin.com/in/jeffley-garçon-177482292](www.linkedin.com/in/jeffley-garçon-177482292)
 - E-mail: jeffleygarcon007@gmail.com
 
 #### 🎯 Goals
