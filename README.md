@@ -26,13 +26,13 @@ My name is Jeffley Garçon, a technology enthusiast passionate about creating in
 - I am open to collaborations and discussions on anything related to technology.
 
 #### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=radical)
 
 #### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg)
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=merko)
 
 #### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=gruvbox)
 
 #### 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
