@@ -1,38 +1,42 @@
 ### Hello, World! 👋
 
-My name is Jeffley Garçon, a technology enthusiast passionate about creating innovative solutions. I am a Java, C, Python developer with experience in SpringBoot and MySQL.
+I'm Jeffley Garçon, a technology enthusiast passionate about creating innovative solutions. I specialize in Java, C, and Python development with expertise in SpringBoot and MySQL.
 
 #### 💼 Professional Experience
 - Compass UOL - Backend SpringBoot Internship (December 2022 - Present)
 
 #### 🚀 Skills
-- Programming Languages: C, Python, Java
-- Technologies: SpringBoot
-- Databases: MySQL
-- Tools: Git
+- **Programming Languages:** Java, C, Python
+- **Technologies:** SpringBoot
+- **Databases:** MySQL
+- **Tools:** Git
 
 #### 🌱 Currently Learning
-- I am currently exploring SpringBoot, MySQL, Java (object-oriented programming).
+- Exploring SpringBoot, MySQL, and advanced Java (object-oriented programming).
 
 #### 📫 How to Reach Me
-- LinkedIn: [www.linkedin.com/in/jeffley-garçon-177482292](www.linkedin.com/in/jeffley-garçon-177482292)
+- [LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
 - E-mail: jeffleygarcon007@gmail.com
 
 #### 🎯 Goals
-- Contribute to open-source projects and learn from the community.
-- Learn more about artificial intelligence, web development, database management, and backend technologies.
+- Contribute to impactful open-source projects and continue learning from the tech community.
+- Expand expertise in artificial intelligence, web development, database management, and backend technologies.
 
 #### 🤝 Collaboration
-- I am open to collaborations and discussions on anything related to technology.
+- Open to collaborations and engaging discussions on all things technology.
+
+#### 🚀 Featured Projects
+- [Project 1](link-to-project-1): Short description.
+- [Project 2](link-to-project-2): Short description.
 
 #### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite)
 
 #### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=merko)
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=default)
 
 #### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite)
 
 #### 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
