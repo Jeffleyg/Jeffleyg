@@ -25,9 +25,6 @@ I'm Jeffley Garçon, a technology enthusiast passionate about creating innovativ
 #### 🤝 Collaboration
 - Open to collaborations and engaging discussions on all things technology.
 
-#### 🚀 Featured Projects
-- [Project 1](link-to-project-1): Short description.
-- [Project 2](link-to-project-2): Short description.
 
 #### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite)
