@@ -30,7 +30,7 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 - E-mail: [jeffleygarcon007@gmail.com](mailto:jeffleygarcon007@gmail.com)
 
 ### 🚧 My GitHub Journey
-- **Created their first repository!** [Repository Name](link-to-repository)
+- **Created their first repository!** [Repository Name](https://github.com/Jeffleyg)
 
 ### 🎨 Gojo de Ujutsu Taiisen
 ![Gojo de Ujutsu Taiisen](https://criticalhits.com.br/wp-content/uploads/2021/07/EvcizDkWQAABXn3.jpg)
