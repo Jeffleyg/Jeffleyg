@@ -26,12 +26,6 @@ I'm Jeffley Garçon, a technology enthusiast passionate about creating innovativ
 - Open to collaborations and engaging discussions on all things technology.
 
 
-#### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite)
-
-#### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=default)
-
 #### 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite)
 
