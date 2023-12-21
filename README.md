@@ -32,25 +32,17 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 ### 🚧 My GitHub Journey
 - **Created their first repository!** [Repository Name](link-to-repository)
   
+### 🚧 My GitHub Journey
+- **Created their first repository!** [Repository Name](link-to-repository)
+
 ### 🎨 Cool Car
 <img src="https://www.designi.com.br/images/preview/10913908.jpg" alt="Cool Car" width="300px">
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite)
 
-<!-- GitHub Stats -->
-<p align="center">
-  <b>📈 GitHub Stats</b><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite" alt="GitHub Stats">
-</p>
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=default)
 
-<!-- Contribution Graph -->
-<p align="center">
-  <b>📊 Contribution Graph</b><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=default" alt="Contribution Graph">
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <b>📈 Most Used Languages</b><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite" alt="Top Languages">
-</p>
-
+### 📈 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite)
