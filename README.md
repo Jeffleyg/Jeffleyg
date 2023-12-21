@@ -34,3 +34,22 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 
 ### 🎨 Cool Car
 ![Cool Car](https://www.designi.com.br/images/preview/10913908.jpg)
+
+<!-- GitHub Stats -->
+<p align="center">
+  <b>📈 GitHub Stats</b><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite" alt="GitHub Stats">
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <b>📊 Contribution Graph</b><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=default" alt="Contribution Graph">
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <b>📈 Most Used Languages</b><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite" alt="Top Languages">
+</p>
+
