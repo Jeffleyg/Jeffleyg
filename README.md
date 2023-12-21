@@ -29,29 +29,8 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 - LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
 - E-mail: [jeffleygarcon007@gmail.com](mailto:jeffleygarcon007@gmail.com)
 
-Let's connect and build amazing things together! 😄
+### 🚧 My GitHub Journey
+- **Created their first repository!** [Repository Name](link-to-repository)
 
-<!-- Repositories -->
-<h2 align="center">Featured Repositories</h2>
-
-<p align="center">
-  Explore some of my noteworthy projects:
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <b>📈 GitHub Stats</b><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite" alt="GitHub Stats">
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <b>📊 Contribution Graph</b><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=default" alt="Contribution Graph">
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <b>📈 Most Used Languages</b><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite" alt="Top Languages">
-</p>
+### 🎨 Gojo de Ujutsu Taiisen
+![Gojo de Ujutsu Taiisen](https://criticalhits.com.br/wp-content/uploads/2021/07/EvcizDkWQAABXn3.jpg)
