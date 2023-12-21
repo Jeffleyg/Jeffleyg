@@ -36,10 +36,9 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 - E-mail: [jeffleygarcon007@gmail.com](mailto:jeffleygarcon007@gmail.com)
 
 ### 🚧 My GitHub Journey
-- **Created their first repository!** [Repository Name](link-to-repository)
+- **Created their first repository!** [Repository Name](//github.com/Jeffleyg)
   
-### 🚧 My GitHub Journey
-- **Created their first repository!** [Repository Name](link-to-repository)
+
 
 ### 🎨 Cool Car
 <img src="https://www.designi.com.br/images/preview/10913908.jpg" alt="Cool Car" width="300px">
