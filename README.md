@@ -26,9 +26,6 @@ I'm Jeffley Garçon, a technology enthusiast passionate about creating innovativ
 - Open to collaborations and engaging discussions on all things technology.
 
 
-#### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite)
-
 #### 🌐 Connect with Me
 - LinkedIn: [www.linkedin.com/in/jeffley-garçon-177482292](www.linkedin.com/in/jeffley-garçon-177482292)
 - E-mail: jeffleygarcon007@gmail.com
