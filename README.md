@@ -10,6 +10,11 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 - *Technologies:* SpringBoot
 - *Databases:* MySQL
 - *Tools:* Git
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](link-para-seu-projeto)
+[![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](link-para-seu-projeto)
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](link-para-seu-projeto)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)](link-para-seu-projeto)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)](link-para-seu-projeto)
 
 #### 🌱 Currently Learning
 - Currently exploring advanced topics in SpringBoot, MySQL, and mastering Java through object-oriented programming principles.
