@@ -32,5 +32,5 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 ### 🚧 My GitHub Journey
 - **Created their first repository!** [Repository Name](https://github.com/Jeffleyg)
 
-### 🎨 Gojo de Ujutsu Taiisen
+### 🎨 Gojo de JUjutsu Taiisen
 ![Gojo de Ujutsu Taiisen](https://criticalhits.com.br/wp-content/uploads/2021/07/EvcizDkWQAABXn3.jpg)
