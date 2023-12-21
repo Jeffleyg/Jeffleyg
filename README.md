@@ -40,3 +40,41 @@ I'm Jeffley Garçon, a technology enthusiast passionate about creating innovativ
 - E-mail: jeffleygarcon007@gmail.com
 
 Let's connect and build amazing things together! 😄
+<!-- Repositories -->
+<h2 align="center">Featured Repositories</h2>
+
+<p align="center">
+  Check out some of my noteworthy projects:
+</p>
+
+<!-- Project 1 -->
+<p align="center">
+  <b>[Project 1](link-to-project-1)</b><br>
+  Short description of Project 1.
+</p>
+
+<!-- Project 2 -->
+<p align="center">
+  <b>[Project 2](link-to-project-2)</b><br>
+  Short description of Project 2.
+</p>
+
+<!-- ... Add more projects as needed -->
+
+<!-- GitHub Stats -->
+<p align="center">
+  <b>📈 GitHub Stats</b><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=graywhite" alt="GitHub Stats">
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <b>📊 Contribution Graph</b><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=default" alt="Contribution Graph">
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <b>📈 Most Used Languages</b><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=graywhite" alt="Top Languages">
+</p>
