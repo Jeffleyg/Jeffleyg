@@ -3,7 +3,7 @@
 I'm Jeffley Garçon, a technology enthusiast passionate about creating innovative solutions. I specialize in Java, C, and Python development with expertise in SpringBoot and MySQL.
 
 #### 💼 Professional Experience
-- Compass UOL - Backend SpringBoot Internship (December 2022 - Present)
+- Compass UOL - Backend SpringBoot Internship (December 2023 - Present)
 
 #### 🚀 Skills
 - **Programming Languages:** Java, C, Python
