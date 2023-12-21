@@ -31,9 +31,10 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 
 ### 🚧 My GitHub Journey
 - **Created their first repository!** [Repository Name](link-to-repository)
-
+  
 ### 🎨 Cool Car
-![Cool Car](https://www.designi.com.br/images/preview/10913908.jpg)
+<img src="https://www.designi.com.br/images/preview/10913908.jpg" alt="Cool Car" width="300px">
+
 
 <!-- GitHub Stats -->
 <p align="center">
