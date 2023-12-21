@@ -38,19 +38,6 @@ Let's connect and build amazing things together! 😄
   Check out some of my noteworthy projects:
 </p>
 
-<!-- Project 1 -->
-<p align="center">
-  <b>[Project 1](link-to-project-1)</b><br>
-  Short description of Project 1.
-</p>
-
-<!-- Project 2 -->
-<p align="center">
-  <b>[Project 2](link-to-project-2)</b><br>
-  Short description of Project 2.
-</p>
-
-<!-- ... Add more projects as needed -->
 
 <!-- GitHub Stats -->
 <p align="center">
