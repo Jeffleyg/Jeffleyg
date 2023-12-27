@@ -35,12 +35,8 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 - LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
 - E-mail: [jeffleygarcon007@gmail.com](mailto:jeffleygarcon007@gmail.com)
 
-### 🚧 My GitHub Journey
-- **Created their first repository!** [Repository Name](//github.com/Jeffleyg)
-  
 
-
-### 🎨 Cool Car
+### 🎨 Cool Pictures
 <img src="https://www.designi.com.br/images/preview/10913908.jpg" alt="Cool Car" width="300px">
 
 ### 📊 GitHub Stats
