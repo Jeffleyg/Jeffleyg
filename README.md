@@ -45,6 +45,5 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=dark)
 
-### 📈 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffleyg&layout=compact&theme=dark)
+![One Piece Gear 5](https://wallpaperchain.com/download/one-piece-gear-5/one-piece-gear-5-wallpaper-2.jpg)
 
