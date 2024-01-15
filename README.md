@@ -20,9 +20,6 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 #### 🌱 Currently Learning
 - Currently exploring advanced topics in SpringBoot, MySQL, and mastering Java through object-oriented programming principles.
 
-#### 📫 How to Reach Me
-- LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
-- E-mail: [jeffleygarcon007@gmail.com](mailto:jeffleygarcon007@gmail.com)
 
 #### 🎯 Goals
 - Contribute to impactful open-source projects and continually learn from the tech community.
@@ -31,19 +28,18 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 #### 🤝 Collaboration
 - Open to collaborations and engaging discussions on all things technology.
 
-#### 🌐 Connect with Me
-- LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/jeffley-garçon-177482292)
-- E-mail: [jeffleygarcon007@gmail.com](mailto:jeffleygarcon007@gmail.com)
+![Luffy GIF](https://media.tenor.com/bU8W2-lHZhYAAAAi/luffy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Alura GIF" width="300">
 
 
-### 🎨 Cool Pictures
-<img src="https://www.designi.com.br/images/preview/10913908.jpg" alt="Cool Car" width="300px">
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="300">
+
+
+
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=dark)
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=dark)&nbsp;&nbsp;&nbsp;<img src="https://wallpaperchain.com/download/one-piece-gear-5/one-piece-gear-5-wallpaper-2.jpg" alt="One Piece Gear 5" width="500">
 
-![One Piece Gear 5](https://wallpaperchain.com/download/one-piece-gear-5/one-piece-gear-5-wallpaper-2.jpg)
+
 
