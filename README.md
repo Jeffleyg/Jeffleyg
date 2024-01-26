@@ -27,7 +27,7 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 
 #### 🤝 Collaboration
 - Open to collaborations and engaging discussions on all things technology.
-- 
+
 #### 🧑‍🚀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeffleyg)
 
