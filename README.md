@@ -27,6 +27,10 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 
 #### 🤝 Collaboration
 - Open to collaborations and engaging discussions on all things technology.
+- 
+#### 🧑‍🚀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Jeffleyg)
+
 
 ![Luffy GIF](https://media.tenor.com/bU8W2-lHZhYAAAAi/luffy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Alura GIF" width="300">
 
@@ -37,9 +41,7 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 
 
 
-
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=dark)&nbsp;&nbsp;&nbsp;<img src="https://wallpaperchain.com/download/one-piece-gear-5/one-piece-gear-5-wallpaper-2.jpg" alt="One Piece Gear 5" width="500">
-
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=dark)
 
 
