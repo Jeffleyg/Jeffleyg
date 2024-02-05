@@ -7,8 +7,8 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 
 #### 🚀 Skills
 - *Programming Languages:* Java, C, Python
-- *Technologies:* SpringBoot
-- *Databases:* MySQL
+- *Technologies:* SpringBoot, Apache Kafka, Api REST, Spring Cloud OpenFeign
+- *Databases:* MySQL, SQL, H2 Database
 - *Tools:* Git
   
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](link-para-seu-projeto)
@@ -16,6 +16,10 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)](link-para-seu-projeto)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?&style=for-the-badge&logo=mysql&logoColor=white)](link-para-seu-projeto)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)](link-para-seu-projeto)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%2314354C.svg?&style=for-the-badge&logo=apache&logoColor=white)](link-para-seu-projeto)
+[![REST API](https://img.shields.io/badge/REST%20API-%236DB33F.svg?&style=for-the-badge&logo=rest&logoColor=white)](link-para-seu-projeto)
+[![H2 Database](https://img.shields.io/badge/H2%20Database-%2300758F.svg?&style=for-the-badge&logo=h2&logoColor=white)](link-para-seu-projeto)
+
 
 #### 🌱 Currently Learning
 - Currently exploring advanced topics in SpringBoot, MySQL, and mastering Java through object-oriented programming principles.
