@@ -9,7 +9,8 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 - *Programming Languages:* Java, C, Python
 - *Technologies:* SpringBoot, Apache Kafka, Api REST, Spring Cloud OpenFeign
 - *Databases:* MySQL, SQL, H2 Database
-- *Tools:* Git
+- *Tools:* Git, Github
+- *Others:* API Gateway, Docker, RabbitMQ, Kafka, Keycloak, Auth0
   
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](link-para-seu-projeto)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](link-para-seu-projeto)
@@ -20,10 +21,8 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 [![REST API](https://img.shields.io/badge/REST%20API-%236DB33F.svg?&style=for-the-badge&logo=rest&logoColor=white)](link-para-seu-projeto)
 [![H2 Database](https://img.shields.io/badge/H2%20Database-%2300758F.svg?&style=for-the-badge&logo=h2&logoColor=white)](link-para-seu-projeto)
 
-
 #### 🌱 Currently Learning
 - Currently exploring advanced topics in SpringBoot, MySQL, and mastering Java through object-oriented programming principles.
-
 
 #### 🎯 Goals
 - Contribute to impactful open-source projects and continually learn from the tech community.
@@ -31,21 +30,13 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 
 #### 🤝 Collaboration
 - Open to collaborations and engaging discussions on all things technology.
-
 #### 🧑‍🚀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeffleyg)
-
+<img src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-05/whatis_rest_api.png" alt="API REST Image" width="300px">
+</div>
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffleyg&theme=cobalt"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffleyg&show_icons=true&theme=cobalt&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffleyg&layout=compact&langs_count=7&theme=cobalt&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffleyg&theme=cobalt&hide_border=true"/>
+</div>
 
 ![Luffy GIF](https://media.tenor.com/bU8W2-lHZhYAAAAi/luffy.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Alura GIF" width="300">
-
-
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffleyg&show_icons=true&count_private=true&hide=contribs&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="300">
-
-
-
-### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeffleyg&theme=dark)
-
-
