@@ -32,6 +32,7 @@ I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creati
 - Open to collaborations and engaging discussions on all things technology.
 #### 🧑‍🚀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeffleyg)
+
 <img src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-05/whatis_rest_api.png" alt="API REST Image" width="300px">
 </div>
 <div align="center">
