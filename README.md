@@ -1,6 +1,5 @@
 
-╔═══════════════════ Hi 👋 I'm Jeffley Garçon ════════════════════╗
-😄 Jeffley Garçon                
+╔═══════════════════ Hi 👋 I'm Jeffley Garçon ════════════════════╗               
 ║ A dedicated technology enthusiast with a passion for creating innovative solutions. I specialize in Java, C, and Python development, bringing expertise in SpringBoot and MySQL. ║
 ║ Follow me on [Twitter](https://twitter.com/jeffleyg) and [LinkedIn](https://www.linkedin.com/in/jeffleyg/).                     
 ╠════════════════════════════════════════════════════════════╣
