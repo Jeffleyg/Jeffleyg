@@ -1,16 +1,20 @@
-### Hello, World! 👋
 
-I'm Jeffley Garçon, a dedicated technology enthusiast with a passion for creating innovative solutions. I specialize in Java, C, and Python development, bringing expertise in SpringBoot and MySQL.
-
-#### 💼 Professional Experience
+╔═══════════════════ Hi 👋 I'm Jeffley Garçon ════════════════════╗
+😄 Jeffley Garçon                
+║ A dedicated technology enthusiast with a passion for creating innovative solutions. I specialize in Java, C, and Python development, bringing expertise in SpringBoot and MySQL. ║
+║ Follow me on [Twitter](https://twitter.com/jeffleyg) and [LinkedIn](https://www.linkedin.com/in/jeffleyg/).                     
+╠════════════════════════════════════════════════════════════╣
+💼 **Professional Experience**
 - **Compass UOL** - Backend SpringBoot Internship (December 2023 - Present)
 
-#### 🚀 Skills
+🚀 **Skills**
 - *Programming Languages:* Java, C, Python
-- *Technologies:* SpringBoot, Apache Kafka, Api REST, Spring Cloud OpenFeign
+- *Technologies:* SpringBoot, Apache Kafka, REST API, Spring Cloud OpenFeign
 - *Databases:* MySQL, SQL, H2 Database
-- *Tools:* Git, Github
-- *Others:* API Gateway, Docker, RabbitMQ, Kafka, Keycloak, Auth0
+- *Tools:* Git, GitHub
+- *Others:* API Gateway, Docker, RabbitMQ, Keycloak, Auth0
+╚════════════════════════════════════════════════════════════╝
+
   
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](link-para-seu-projeto)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](link-para-seu-projeto)
