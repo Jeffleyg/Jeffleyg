@@ -1,8 +1,18 @@
 
 ╔═══════════════════ Hi 👋 I'm Jeffley Garçon ════════════════════╗               
 ║ A dedicated technology enthusiast with a passion for creating innovative solutions. I specialize in Java, C, and Python development, bringing expertise in SpringBoot and MySQL. ║
-║ Follow me on [Twitter](https://twitter.com/jeffleyg) and [LinkedIn](https://www.linkedin.com/in/jeffleyg/).                     
+║ Follow me on [Twitter](https://twitter.com/jeffleyg) and [LinkedIn](https://www.linkedin.com/in/jeffleyg/).  
+═════════════════════════════════════════════════════════════╝
+
+📘 Popular Projects                 
+┣━━ [RepositorioEstagioCompasso](https://github.com/Jeffleyg/RepositorioEstagioCompasso)             
+┣━━ [Primeiro_Desafio_COMPASSO](https://github.com/Jeffleyg/Primeiro_Desafio_COMPASSO)    
+┣━━ [CalculadoraJava](https://github.com/Jeffleyg/CalculadoraJava)        
+┣━━ [Trabalho_Final_Algoritmo](https://github.com/Jeffleyg/Trabalho_Final_Algoritmo)        
+┗━━ [DesafioCompassoApi](https://github.com/Jeffleyg/RepositorioEstagioCompasso/tree/main/DesafioCompassoApi)
+
 ╠════════════════════════════════════════════════════════════╣
+
 💼 **Professional Experience**
 - **Compass UOL** - Backend SpringBoot Internship (December 2023 - Present)
 
