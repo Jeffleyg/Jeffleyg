@@ -8,7 +8,7 @@
 ┣━━ [RepositorioEstagioCompasso](https://github.com/Jeffleyg/RepositorioEstagioCompasso)             
 ┣━━ [Primeiro_Desafio_COMPASSO](https://github.com/Jeffleyg/Primeiro_Desafio_COMPASSO)    
 ┣━━ [CalculadoraJava](https://github.com/Jeffleyg/CalculadoraJava)        
-┣━━ [Trabalho_Final_Algoritmo](https://github.com/Jeffleyg/Trabalho_Final_Algoritmo) 
+┣━━ [Trabalho_Final_Algoritmo](https://github.com/Jeffleyg/Trabalho_Final_Algoritmo)    
 ┣━━ [Trabalho_Integrador](https://github.com/Jeffleyg/Projeto_Intregador.git)
 ┗━━ [DesafioCompassoApi](https://github.com/Jeffleyg/RepositorioEstagioCompasso/tree/main/DesafioCompassoApi)
 
