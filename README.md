@@ -8,7 +8,8 @@
 ┣━━ [RepositorioEstagioCompasso](https://github.com/Jeffleyg/RepositorioEstagioCompasso)             
 ┣━━ [Primeiro_Desafio_COMPASSO](https://github.com/Jeffleyg/Primeiro_Desafio_COMPASSO)    
 ┣━━ [CalculadoraJava](https://github.com/Jeffleyg/CalculadoraJava)        
-┣━━ [Trabalho_Final_Algoritmo](https://github.com/Jeffleyg/Trabalho_Final_Algoritmo)        
+┣━━ [Trabalho_Final_Algoritmo](https://github.com/Jeffleyg/Trabalho_Final_Algoritmo) 
+┣━━ [Trabalho_Integrador](https://github.com/Jeffleyg/Projeto_Intregador.git)
 ┗━━ [DesafioCompassoApi](https://github.com/Jeffleyg/RepositorioEstagioCompasso/tree/main/DesafioCompassoApi)
 
 ╠════════════════════════════════════════════════════════════╣
@@ -17,9 +18,9 @@
 - **Compass UOL** - Backend SpringBoot Internship (December 2023 - Present)
 
 🚀 **Skills**
-- *Programming Languages:* Java, C, Python
-- *Technologies:* SpringBoot, Apache Kafka, REST API, Spring Cloud OpenFeign
-- *Databases:* MySQL, SQL, H2 Database
+- *Programming Languages:* Java, C, Python, Javascript, C++
+- *Technologies:* SpringBoot, Apache Kafka, REST API, Spring Cloud OpenFeign, React, Node Js
+- *Databases:* MySQL, SQL, H2 Database, MongoDB
 - *Tools:* Git, GitHub
 - *Others:* API Gateway, Docker, RabbitMQ, Keycloak, Auth0
 ╚════════════════════════════════════════════════════════════╝
