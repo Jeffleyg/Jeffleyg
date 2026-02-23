@@ -1,4 +1,4 @@
-# ╔═══════════════════ Hi 👋 I'm Jeffley Garçon ════════════════════╗
+# ╔═════════Hi 👋 I'm Jeffley Garçon ════════╗
 
 ### 👨‍💻 About Me
 I am a **Computer Science** student at **UFFS** (graduating July 2026) based in Brazil. Currently, I work as a Software Developer at **M8 Sistemas**, where I specialize in **SQL optimization**, business logic, and backend stability. I have a proven track record of delivering over 80 complex technical tasks with a 90% success rate.
